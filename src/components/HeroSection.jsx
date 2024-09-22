@@ -54,7 +54,7 @@ const HeroSection = () => {
         </div>
 
         {/* Right Side: T-Shirt and Sticker */}
-        <div className="md:w-1/2 relative p-5">
+        <div className="md:w-1/2 relative p-16">
           {/* T-Shirt Image */}
           <img
             src="https://printify.com/pfh/assets/animations/images/img_5.png"
